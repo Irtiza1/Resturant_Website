@@ -31,8 +31,8 @@ Link: [here](https://irtiza1.github.io/Resturant_Website/site/index.html)
 ![Menu Page](site/menu.png)
 
 Link: [here](https://irtiza1.github.io/Resturant_Website/site/menu-category.html)
-### Reservation Page
-![Reservation Page](screenshots/reservation.png)
+### About Page
+![About Page]()
 
 ### Contact Page
 ![Contact Page](screenshots/contact.png)
