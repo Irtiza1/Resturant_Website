@@ -32,8 +32,9 @@ Link: [here](https://irtiza1.github.io/Resturant_Website/site/index.html)
 
 Link: [here](https://irtiza1.github.io/Resturant_Website/site/menu-category.html)
 ### About Page
-![About Page]()
+![About Page](site/About.png)
 
+Link: [here](https://irtiza1.github.io/Resturant_Website/site/about.html)
 ### Contact Page
 ![Contact Page](screenshots/contact.png)
 
