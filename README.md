@@ -35,22 +35,12 @@ Link: [here](https://irtiza1.github.io/Resturant_Website/site/menu-category.html
 ![About Page](site/About.png)
 
 Link: [here](https://irtiza1.github.io/Resturant_Website/site/about.html)
-### Contact Page
-![Contact Page](screenshots/contact.png)
-
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/your-username/restaurant-website.git`
 2. Open the project in your preferred code editor.
 3. Modify the HTML, CSS, and JavaScript files to customize the website according to your restaurant's needs.
 4. Replace the images in the `screenshots` folder with your own restaurant's images.
 5. Launch the website by opening the `index.html` file in a web browser.
-
-## Contributors
-- John Doe [@johndoe](https://github.com/johndoe)
-- Jane Smith [@janesmith](https://github.com/janesmith)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Website Link
 You can access the live website [here](https://irtiza1.github.io/Resturant_Website/site/).
