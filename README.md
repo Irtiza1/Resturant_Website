@@ -25,7 +25,7 @@ This is a responsive and interactive website for a restaurant. It provides infor
 
 ### Home Page
 ![Home Page](screenshots/home.png)
-
+Link: (https://irtiza1.github.io/Resturant_Website/site/index.html)
 ### Menu Page
 ![Menu Page](screenshots/menu.png)
 
