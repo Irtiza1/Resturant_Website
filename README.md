@@ -1,6 +1,6 @@
 # David Chu's China Bistro Restaurant Website
 
-![Restaurant Logo](resturant-logo/site.png)
+![Restaurant Logo](site/resturant-logo.png)
 
 This is a responsive and interactive website for a restaurant. It provides information about the restaurant, its menu, and allows customers to make reservations online.
 
